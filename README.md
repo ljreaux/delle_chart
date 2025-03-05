@@ -7,7 +7,7 @@ This project visualizes Delle Units across ABV and Specific Gravity.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ljreaux-skillstorm/delle_chart.git
+git clone https://github.com/ljreaux/delle_chart.git
 ```
 
 2. Navigate to the folder:
